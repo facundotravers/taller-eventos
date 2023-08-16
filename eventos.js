@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function () {
     const divContenedor = document.querySelector('.boton-container');
 
